@@ -44,7 +44,8 @@ Data analysis project for King Abdullah Economic City (KAEC) using Excel and Pow
 ### 1. نظرة عامة على الداشبورد
 هذه الصورة تعرض النظرة العامة للداشبورد الذي يوضح مؤشرات مدينة الملك عبدالله الاقتصادية للفترة من 2018 إلى 2025.
 
-![Dashboard Overview](IMG_8393.png)
+![Dashboard Overview]
+(IMG_8393.jpeg)
 
 ---
 
@@ -52,7 +53,7 @@ Data analysis project for King Abdullah Economic City (KAEC) using Excel and Pow
 في هذا الجزء يتم عرض كارت/مؤشر يوضح إجمالي عدد القوى العاملة في المدينة لعام 2025، مع الاعتماد على البيانات الفعلية والافتراضية (Actual و Forecast) من نموذج البيانات في Power BI.
 
 ![Workforce 2025]
-(IMG_8396.png)
+(IMG_8396.jpeg)
 
 ---
 
@@ -60,7 +61,7 @@ Data analysis project for King Abdullah Economic City (KAEC) using Excel and Pow
 هذه الصورة تبين قيمة المساحة المطوّرة في المدينة لعام 2024، كجزء من تتبع تطور المساحة المطوّرة عبر السنوات.
 
 ![Developed Area 2024]
-(IMG_8394.png)
+(IMG_8394.jpeg)
 
 ---
 
@@ -68,4 +69,4 @@ Data analysis project for King Abdullah Economic City (KAEC) using Excel and Pow
 في هذا العرض يتم التركيز على إجمالي المساحة المطوّرة مقارنة بإجمالي مساحة المدينة، وذلك لإبراز نسبة الجزء المطوّر من المدينة ضمن الداشبورد.
 
 ![Total Developed Area]
-(IMG_8395.png)
+(IMG_8395.jpeg)
